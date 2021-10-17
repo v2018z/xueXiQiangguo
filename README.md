@@ -1,9 +1,16 @@
 # 学习强国 自动学习
 
-> 写给老婆用的，应该没啥大bug，分享下。喜欢的话记得点颗星星蛤～
+## 下载链接
 
-> 支持 macOS、Windows、Linux
---- 
+[MacOS](https://github.com/v2018z/xueXiQiangguo/tree/main/build/MacOS)
+
+[Windows](https://github.com/v2018z/xueXiQiangguo/tree/main/build/Windows) 
+
+[Windows 免安装版](https://github.com/v2018z/xueXiQiangguo/tree/main/build/Windows) 
+
+[Linux 桌面版](https://github.com/v2018z/xueXiQiangguo/tree/main/build/Linux)
+#
+## 作者有话说
 
 本软件为公益性质，永久免费使用
 
