@@ -4,8 +4,6 @@
 
 [MacOS](https://github.com/v2018z/xueXiQiangguo/tree/main/build/MacOS)
 
-[Windows](https://github.com/v2018z/xueXiQiangguo/tree/main/build/Windows) 
-
 [Windows 免安装版](https://github.com/v2018z/xueXiQiangguo/tree/main/build/Windows) 
 
 [Linux 桌面版](https://github.com/v2018z/xueXiQiangguo/tree/main/build/Linux)
