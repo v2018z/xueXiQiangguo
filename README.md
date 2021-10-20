@@ -8,7 +8,7 @@
 
 [Linux 桌面版](https://github.com/v2018z/xueXiQiangguo/tree/main/build/Linux)
 
-tips: 部分Windows用户无法卸载或重装，请尝试使用免安装版
+tips: 原Windows安装版有无法卸载或重装的bug，请直接使用免安装版
 
 #
 ## 作者的话
