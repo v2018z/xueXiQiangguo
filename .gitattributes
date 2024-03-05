@@ -1,1 +1,2 @@
 Windows filter=lfs diff=lfs merge=lfs -text
+build filter=lfs diff=lfs merge=lfs -text
