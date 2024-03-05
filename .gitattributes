@@ -1,2 +1,5 @@
 Windows filter=lfs diff=lfs merge=lfs -text
 build filter=lfs diff=lfs merge=lfs -text
+build/Linux filter=lfs diff=lfs merge=lfs -text
+build/MacOS filter=lfs diff=lfs merge=lfs -text
+build/Windows filter=lfs diff=lfs merge=lfs -text
